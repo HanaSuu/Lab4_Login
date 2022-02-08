@@ -1,5 +1,7 @@
 # Lab4_MyLogin
- SAIT_CPRG352_Lab_4
+<!--  SAIT_CPRG352_Lab_4 -->
+ 
+ *Xin Su*
 
 - This is a web application that contains login and logout functions. 
 
